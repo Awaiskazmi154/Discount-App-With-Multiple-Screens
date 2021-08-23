@@ -3,3 +3,6 @@ A Mobile app to get final prices of products on sale by inputting their discount
 
 # Expo snack link
 https://snack.expo.dev/@awaiskazmi/assignment-3
+
+# demo
+https://youtu.be/vSHt_lUaEJs
